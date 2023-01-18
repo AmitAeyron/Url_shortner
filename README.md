@@ -1,5 +1,5 @@
 # Url_shortner
-This is a url shortener
+This is a url shortening service.
 
 
 <img width="600" alt="Screenshot 2022-07-24 at 7 57 11 PM" src="https://user-images.githubusercontent.com/85245914/181692543-1181610e-4e88-426f-9c81-ac77a7889bce.png">
